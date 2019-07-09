@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815928406235",
+    "firebase_url": "https://dsc-chat-a0dd6.firebaseio.com",
+    "project_id": "dsc-chat-a0dd6",
+    "storage_bucket": "dsc-chat-a0dd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815928406235:android:578936208dfea03b",
+        "android_client_info": {
+          "package_name": "co.dscagitel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815928406235-cb8lvidf7gj1sg8dh66gnhtvtqlo8k7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0tKV6X2H9hsD_iz3eMO6eflhWqEHsEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815928406235-cb8lvidf7gj1sg8dh66gnhtvtqlo8k7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
