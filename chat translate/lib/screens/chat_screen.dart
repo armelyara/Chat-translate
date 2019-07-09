@@ -49,7 +49,7 @@ final user = await _auth.currentUser();
                 Navigator.pop(context);
               }),
         ],
-        title: Text('⚡️Chat'),
+        title: Text('Chat'),
         backgroundColor: Colors.lightBlueAccent,
       ),
       body: SafeArea(
