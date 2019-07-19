@@ -9,4 +9,4 @@ This application is based on Flash chat Template. His objectif to create an chat
 
 ## What you will create
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+We’re going to build a modern messaging app where users can sign up and log in to chat. Also, they can read all messages write in others langage that their langage
