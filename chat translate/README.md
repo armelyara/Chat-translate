@@ -3,7 +3,7 @@
 
 # Chat Translator
 
-## Our Goal
+## Goal
 
 This application is based on Flash chat Template. His objectif to create an chat app which translate each message in users langage. 
 
